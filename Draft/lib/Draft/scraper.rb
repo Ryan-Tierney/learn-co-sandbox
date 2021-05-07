@@ -1,2 +1,0 @@
-class Draft::Scraper
-end 
